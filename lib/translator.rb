@@ -9,6 +9,7 @@ def load_library(file_path)
  "get_emoticon" => {}
  }
  
+ emoticons.each do |key, value| 
 end
 
 def get_japanese_emoticon
